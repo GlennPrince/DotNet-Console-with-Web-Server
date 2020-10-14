@@ -1,3 +1,3 @@
 # DotNet-Console-with-Web-Server
 
-A simple DotNet console application temnplate that has been converted to also have a webserver component. Has some basic boilerplate components built into it.
+A simple DotNet console application temnplate that has been converted to also have a webserver component. Has some basic boilerplate components built into it and a default ConsoleService application that runs in the background. Can be used and modified to allow a long running service and a web front end. Details can be found on [my blog](https://www.glennprince.com/blog/adding-webserver-to-a-console-app/).
